@@ -23,8 +23,9 @@ Adjusting to lxqt-build-tools was needed in:
 * [lxqt-qtplugin](https://github.com/lxde/lxqt-qtplugin)
 * [obconf-qt](https://github.com/lxde/obconf-qt) 
 * [pavucontrol-qt](https://github.com/lxde/pavucontrol-qt)
-* [pcmanfm-qt](https://github.com/lxde/pcmanfm-qt)
+* [pcmanfm-qt](https://github.com/lxde/pcmanfm-qt)..
 * [qterminal](https://github.com/lxde/qterminal)
-All other components are depending on liblxqt which in turn is itself depending on lxqt-build-tools by now.   
 
-All those adjustments were introduced in these components' branch `master`and will hence be included in their next minor release.
+All other components are depending on liblxqt which in turn is itself depending on lxqt-build-tools by now. All those adjustments were introduced in these components' branch `master`and will hence be included in their next minor release.
+
+Todays batch contains: compton-conf, libsysstat, lxqt-common, lxqt-l10n, lxqt-qtplugin, obconf-qt, pavucontrol-qt.
