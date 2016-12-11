@@ -12,7 +12,7 @@
 | libsysstat            | 0.3.3              | 2016-12-10 (RELEASED) |                     |                |
 | lxqt-common           | 0.11.1             | 2016-12-11 (RELEASED) |                     |                |
 | lxqt-l10n             | 0.11.1             | 2016-12-11 (RELEASED) |                     |                |
-| lxqt-qtplugin         | 0.11.1             |                       | **2016-12-10**      |                |
+| lxqt-qtplugin         | 0.11.1             | 2016-12-11 (RELEASED) |                     |                |
 | obconf-qt             | 0.11.1             |                       | **2016-12-10**      |                |
 | pavucontrol-qt        | 0.2.0              |                       | **2016-12-10**      |                |
 | qtermwidget           | 0.7.1              |                       |                     | **2016-12-17** |
