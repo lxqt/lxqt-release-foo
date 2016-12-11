@@ -13,7 +13,7 @@
 | lxqt-common           | 0.11.1             | 2016-12-11 (RELEASED) |                     |                |
 | lxqt-l10n             | 0.11.1             | 2016-12-11 (RELEASED) |                     |                |
 | lxqt-qtplugin         | 0.11.1             | 2016-12-11 (RELEASED) |                     |                |
-| obconf-qt             | 0.11.1             |                       | **2016-12-10**      |                |
+| obconf-qt             | 0.11.1             | 2016-12-11 (RELEASED) |                     |                |
 | pavucontrol-qt        | 0.2.0              |                       | **2016-12-10**      |                |
 | qtermwidget           | 0.7.1              |                       |                     | **2016-12-17** |
 | **III**                                                                                                   |
