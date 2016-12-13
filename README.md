@@ -7,7 +7,7 @@
 |[liblxqt](https://goo.gl/NYexFF)              |0.11.1               |             |               |2016-12-17     |
 |[lxqt-build-tools](https://goo.gl/sIaxK5)     |0.3.0                |2016-12-06   |               |               | 
 |**II**                                                                                                            |
-|[compton-conf](https://goo.gl/IZqvAb￼          |0.2.1                |2016-12-10   |               |               |
+|[compton-conf](https://goo.gl/IZqvAb￼)         |0.2.1                |2016-12-10   |               |               |
 |[libfm-qt](https://goo.gl/02n0Fg)             |0.11.2               |             |**2016.12-15** |               |
 |[libsysstat](https://goo.gl/jHN9Vo)           |0.3.3                |2016-12-10   |               |               |
 |[lxqt-common](https://goo.gl/iL9pcT)          |0.11.1               |2016-12-11   |               |               |
