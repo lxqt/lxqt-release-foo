@@ -17,7 +17,7 @@
 |[pavucontrol-qt](https://goo.gl/gTPElB)       |0.2.0                |2016-12-11   |               |               |
 |[qtermwidget](https://goo.gl/N20s1u)          |0.7.1                |             |**2016-12-15** |               |
 |**III**                                                                                                           |
-|[lximage-qt](https://goo.gl/tPE3gz)           |0.6.0                |             |**2016-12-15** |               |
+|[lximage-qt](https://goo.gl/tPE3gz)           |0.5.1                |             |**2016-12-15** |               |
 |[lxqt-about](https://goo.gl/edNtMf)           |0.11.1               |             |               |2016-12-17     |
 |[lxqt-admin](https://goo.gl/e823ri)           |0.11.1               |             |               |2016-12-17     |
 |[lxqt-config](https://goo.gl/BUHJ38)          |0.11.1               |             |               |2016-12-17     |
