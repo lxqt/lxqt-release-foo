@@ -8,7 +8,7 @@ categories: release
 ---
 
 We would like to announce the second batch of point releases regarding lxqt-build-tools.
-All components have also several improvements and bug fixes beside the new dependency.
+All components have several improvements and bug fixes beside the new dependency.
 
 Please read the changelogs.
 
