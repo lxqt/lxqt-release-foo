@@ -34,6 +34,6 @@
 |[lxqt-panel](https://goo.gl/Jx28wF)           |0.11.1               |             |               |2016-12-17     |
 |[lxqt-runner](https://goo.gl/Y6rHTr)          |0.11.1               |             |               |2016-12-17     |
 |**V**                                                                                                             |
-|[qlipper](https://goo.gl/BGZ354)              |5.0.0-10-gff02302    |             |               |this year      |
-|[qps](https://goo.gl/LnRGp7)                  |v1.10.16-29-g7e679db |             |               |this year      |
-|[screengrab](https://goo.gl/J5Mn0T)           |1.96                 |(RELEASED)   |               |               |
+|[qlipper](https://goo.gl/Tg40q2)              |5.0.0-10-gff02302    |             |               |this year      |
+|[qps](https://goo.gl/XrTyN8)                  |v1.10.16-29-g7e679db |             |               |this year      |
+|[screengrab](https://goo.gl/KgVN4w)           |1.96                 |(RELEASED)   |               |               |
