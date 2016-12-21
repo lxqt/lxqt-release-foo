@@ -16,6 +16,6 @@ Todays batch contains:
 * [libfm-qt](https://github.com/lxde/libfm-qt/releases)
 * [lximage-qt](https://github.com/lxde/lximage-qt/releases)
 * [pcmanfm-qt](https://github.com/lxde/pcmanfm-qt/releases)
-* [qtermwidget](https://github.com/lxde/qtremwidget/releases)
+* [qtermwidget](https://github.com/lxde/qtermmwidget/releases)
 * [qterminal](https://github.com/lxde/qterminal/releases)
 
