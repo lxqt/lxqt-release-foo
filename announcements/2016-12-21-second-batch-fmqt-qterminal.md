@@ -2,7 +2,7 @@
 layout: post
 title: Second batch of point releases, introducing lxqt-build-tools
 slug: second-batch-introducing-lxqt-build-tools
-date: 2016-12-16
+date: 2016-12-21
 promoted: true
 categories: release
 ---
@@ -12,4 +12,10 @@ All components have several improvements and bug fixes beside the new dependency
 
 Please read the changelogs.
 
-Todays batch contains: libfm-qt, lximage-qt, pcmanfm-qt, qtermwidget and qterminal.
+Todays batch contains:
+* [libfm-qt](https://github.com/lxde/libfm-qt/releases)
+* [lximage-qt](https://github.com/lxde/lximage-qt/releases)
+* [pcmanfm-qt](https://github.com/lxde/pcmanfm-qt/releases)
+* [qtermwidget](https://github.com/lxde/qtremwidget/releases)
+* [qterminal](https://github.com/lxde/qterminal/releases)
+
