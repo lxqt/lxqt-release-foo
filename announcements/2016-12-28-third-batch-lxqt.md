@@ -10,12 +10,15 @@ categories: release
 We would like to announce the third batch of point releases regarding lxqt-build-tools.
 All components have several improvements and bug fixes beside the new dependency.
 
+As the liblxqt version is provided by lxqt-build-tools. the tools must be build first.
+
 Please read the changelogs.
 
 Todays batch contains:
 * [liblxqt](https://github.com/lxde/liblxqt/releases)
 * [lxqt-about](https://github.com/lxde/lxqt-about/releases)
 * [lxqt-admin](https://github.com/lxde/lxqt-admin/releases)
+* [lxqt-build-tools](https://github.com/lxde/lxqt-build-tools/releases)
 * [lxqt-config](https://github.com/lxde/lxqt-config/releases)
 * [lxqt-globalkeys](https://github.com/lxde/lxqt-globalkeys/releases)
 * [lxqt-notificationd](https://github.com/lxde/lxqt-notificationd/releases)
