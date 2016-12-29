@@ -8,7 +8,8 @@ categories: release
 ---
 
 We would like to announce the third batch of point releases regarding lxqt-build-tools.
-All components have several improvements and bug fixes beside the new dependency.
+All components have several improvements and bug fixes beside the fact that liblxqt has
+now lxqt-build-tools as a the new dependency, so the packaging should not change much.
 
 As the LXQt version is provided by lxqt-build-tools the tools must be build first.
 
