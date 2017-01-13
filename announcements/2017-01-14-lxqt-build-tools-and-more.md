@@ -26,4 +26,5 @@ Releases:
 * [pcmanfm-qt](https://github.com/lxde/pcmanfm-qt/releases)
 
 On behalf of the LXQt-Team
+
 Alf Gaida
