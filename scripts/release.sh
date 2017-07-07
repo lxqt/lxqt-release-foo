@@ -50,7 +50,7 @@ tag() {
 
 branch() {
     cd "$LOCAL_CLONE_PATH/$1/$2-$3"
-    BRANCH_VER="$(echo "$3" | sed 's:..$::').x"
+    BRANCH_VER="$(echo "$3" | sed 's/\.[[:digit:]]*/\.x/2')"
     git checkout -b "releases-$BRANCH_VER"
     git push --set-upstream origin "releases-$BRANCH_VER:releases-$BRANCH_VER"
 }
