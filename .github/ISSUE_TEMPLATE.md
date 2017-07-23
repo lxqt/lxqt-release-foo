@@ -27,9 +27,4 @@
 
 ##### System Information
 <!--- Include as many relevant details about the system you experienced the bug in -->
-* Distribution & Version: 
-* Kernel: 
-* Qt Version: 
-* liblxqt Version: 
-* libqtxdg Version:
-* Package version: 
+* Version: 
