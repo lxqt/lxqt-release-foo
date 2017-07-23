@@ -26,7 +26,8 @@ source $LOCAL_SCRIPT_PATH/release.sh
 
 PROJECT=pavucontrol-qt
 REPO=pavucontrol-qt
-TAG=0.2.0
+TAG=0.2.96
+
 clone     "$PROJECT" "$REPO" "$TAG"
 changelog "$PROJECT" "$REPO" "$TAG"
 tag       "$PROJECT" "$REPO" "$TAG"

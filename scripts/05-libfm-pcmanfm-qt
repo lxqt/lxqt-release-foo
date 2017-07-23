@@ -35,7 +35,8 @@ source $LOCAL_SCRIPT_PATH/release.sh
 
 PROJECT=pcmanfm-qt
 REPO=pcmanfm-qt
-TAG=0.11.3
+TAG=0.11.96
+
 clone     "$PROJECT" "$REPO" "$TAG"
 changelog "$PROJECT" "$REPO" "$TAG"
 tag       "$PROJECT" "$REPO" "$TAG"

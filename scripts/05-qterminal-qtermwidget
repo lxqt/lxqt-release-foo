@@ -26,7 +26,8 @@ source $LOCAL_SCRIPT_PATH/release.sh
 
 PROJECT=qterminal
 REPO=qterminal
-TAG=0.7.1
+TAG=0.7.96
+
 clone     "$PROJECT" "$REPO" "$TAG"
 changelog "$PROJECT" "$REPO" "$TAG"
 tag       "$PROJECT" "$REPO" "$TAG"
@@ -35,7 +36,8 @@ archive   "$PROJECT" "$REPO" "$TAG"
 
 PROJECT=qtermwidget
 REPO=qtermwidget
-TAG=0.7.1
+TAG=0.7.96
+
 clone     "$PROJECT" "$REPO" "$TAG"
 changelog "$PROJECT" "$REPO" "$TAG"
 tag       "$PROJECT" "$REPO" "$TAG"

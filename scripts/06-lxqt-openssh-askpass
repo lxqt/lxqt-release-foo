@@ -26,7 +26,7 @@ source $LOCAL_SCRIPT_PATH/release.sh
 
 PROJECT=lxqt
 REPO=lxqt-openssh-askpass
-TAG=0.11.1
+TAG=0.11.96
 
 clone     "$PROJECT" "$REPO" "$TAG"
 changelog "$PROJECT" "$REPO" "$TAG"
