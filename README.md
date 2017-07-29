@@ -2,7 +2,7 @@
 |Package                                       |Version/Commit   |Release-Date |Planned Date   |
 |----------------------------------------------|-----------------|-------------|---------------| 
 |**0**                                                                                         |
-|[libqtxdg](https://goo.gl/jLhroR)             |3.0.0            |             | asap          |
+|[libqtxdg](https://goo.gl/jLhroR)             |3.0.0            | 2017-07-30  |               |
 |**I**                                                                                         |
 |[lxqt-build-tools](https://goo.gl/sIaxK5)     |0.4.0            |             | asap          | 
 |**II**                                                                                        |
