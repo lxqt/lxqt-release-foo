@@ -12,7 +12,6 @@
 |[compton-conf](https://goo.gl/IZqvAb)         |0.2.99           |             | asap          |
 |[libfm-qt](https://goo.gl/02n0Fg)             |0.11.99          |             | asap          |
 |[lxqt-l10n](https://goo.gl/058rS4)            |0.11.99          |             | asap          |
-|[lxqt-qtplugin](https://goo.gl/kymBbM)        |0.11.99          |             | asap          |
 |[lxqt-themes](    )                           |0.11.99          |             | asap          |
 |[obconf-qt](https://goo.gl/yM6ISU)            |0.11.99          |             | asap          |
 |[pavucontrol-qt](https://goo.gl/gTPElB)       |0.2.99           |             | asap          |
@@ -27,6 +26,7 @@
 |[lxqt-openssh-askpass](https://goo.gl/dTTAo7) |0.11.99          |             | asap          |
 |[lxqt-policykit](https://goo.gl/djkV6d)       |0.11.99          |             | asap          |
 |[lxqt-powermanagement](https://goo.gl/XkkvdB) |0.11.99          |             | asap          |
+|[lxqt-qtplugin](https://goo.gl/kymBbM)        |0.11.99          |             | asap          |
 |[lxqt-session](https://goo.gl/1ub1Kx)         |0.11.99          |             | asap          |
 |[lxqt-sudo](https://goo.gl/ejfvvT)            |0.11.99          |             | asap          |
 |[pcmanfm-qt](https://goo.gl/9X039N)           |0.11.99          |             | asap          |
