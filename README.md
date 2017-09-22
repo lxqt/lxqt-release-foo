@@ -4,7 +4,7 @@
 |**0**                                                                                         |
 |[libqtxdg](https://goo.gl/jLhroR)             |3.0.0            | 2017-09-22  | RELEASED      |
 |**I**                                                                                         |
-|[lxqt-build-tools](https://goo.gl/sIaxK5)     |0.4.0            |             | asap          | 
+|[lxqt-build-tools](https://goo.gl/sIaxK5)     |0.4.0            | 2017-09-22  | RELEASED      | 
 |**II**                                                                                        |
 |[liblxqt](https://goo.gl/NYexFF)              |0.11.99          |             | asap          |
 |[libsysstat](https://goo.gl/jHN9Vo)           |0.3.99           |             | asap          |
@@ -36,5 +36,5 @@
 |[lxqt-runner](https://goo.gl/Y6rHTr)          |0.11.99          |             | asap          |
 |**VI**                                                                                        |
 |[qlipper](https://goo.gl/Tg40q2)              |5.0.1            |             | asap          |
-|[qps](https://goo.gl/XrTyN8)                  |v1.10.17         |             | asap          |
+|[qps](https://goo.gl/XrTyN8)                  |v1.10.17         | 2017-09-21  | RELEASED      |
 |[screengrab](https://goo.gl/KgVN4w)           |1.96             |             | asap          |
