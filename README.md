@@ -7,14 +7,14 @@
 |[lxqt-build-tools](https://goo.gl/sIaxK5)     |0.4.0            | 2017-09-22  | RELEASED      | 
 |**II**                                                                                        |
 |[liblxqt](https://goo.gl/NYexFF)              |0.11.99          |             | asap          |
-|[libsysstat](https://goo.gl/jHN9Vo)           |0.3.99           |             | asap          |
+|[libsysstat](https://goo.gl/jHN9Vo)           |0.4.0            | 2017-09-23  |               |
 |**III**                                                                                       |
-|[compton-conf](https://goo.gl/IZqvAb)         |0.2.99           |             | asap          |
-|[libfm-qt](https://goo.gl/02n0Fg)             |0.11.99          |             | asap          |
-|[lxqt-l10n](https://goo.gl/058rS4)            |0.11.99          |             | asap          |
-|[lxqt-themes](    )                           |0.11.99          |             | asap          |
-|[obconf-qt](https://goo.gl/yM6ISU)            |0.11.99          |             | asap          |
-|[pavucontrol-qt](https://goo.gl/gTPElB)       |0.2.99           |             | asap          |
+|[compton-conf](https://goo.gl/IZqvAb)         |0.3.0            | 2017-09-23  |               |
+|[libfm-qt](https://goo.gl/02n0Fg)             |0.11.99          |             |               |
+|[lxqt-l10n](https://goo.gl/058rS4)            |0.11.99          |             |               |
+|[lxqt-themes](    )                           |0.12.0           | 2017-09-23  |               |
+|[obconf-qt](https://goo.gl/yM6ISU)            |0.12.0           | 2017-09-23  |               |
+|[pavucontrol-qt](https://goo.gl/gTPElB)       |0.3.0            | 2017-09-23  |               |
 |[qtermwidget](https://goo.gl/N20s1u)          |0.7.99           |             | asap          |
 |**IV**                                                                                        |
 |[lximage-qt](https://goo.gl/tPE3gz)           |0.5.99           |             | asap          |
@@ -37,4 +37,4 @@
 |**VI**                                                                                        |
 |[qlipper](https://goo.gl/Tg40q2)              |5.0.1            |             | asap          |
 |[qps](https://goo.gl/XrTyN8)                  |v1.10.17         | 2017-09-21  | RELEASED      |
-|[screengrab](https://goo.gl/KgVN4w)           |1.96             |             | asap          |
+|[screengrab](https://goo.gl/KgVN4w)           |1.97             | 2017-09-23  |               |
