@@ -1,8 +1,8 @@
 # Build Order / Release Plan
-|Package                                       |Version/Commit   |Release-Date |Planned Date   |
+|Package                                       |Version/Commit   |Release-Date | State         |
 |----------------------------------------------|-----------------|-------------|---------------| 
 |**0**                                                                                         |
-|[libqtxdg](https://goo.gl/jLhroR)             |3.0.0            | 2017-07-30  |               |
+|[libqtxdg](https://goo.gl/jLhroR)             |3.0.0            | 2017-09-22  | RELEASED      |
 |**I**                                                                                         |
 |[lxqt-build-tools](https://goo.gl/sIaxK5)     |0.4.0            |             | asap          | 
 |**II**                                                                                        |
