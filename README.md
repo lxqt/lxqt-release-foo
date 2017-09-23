@@ -7,12 +7,12 @@
 |[lxqt-build-tools](https://goo.gl/sIaxK5)     |0.4.0            | 2017-09-22  | RELEASED      | 
 |**II**                                                                                        |
 |[liblxqt](https://goo.gl/NYexFF)              |0.11.99          |             | asap          |
-|[libsysstat](https://goo.gl/jHN9Vo)           |0.4.0            | 2017-09-23  |               |
+|[libsysstat](https://goo.gl/jHN9Vo)           |0.4.0            | 2017-09-23  | RELEASED               |
 |**III**                                                                                       |
 |[compton-conf](https://goo.gl/IZqvAb)         |0.3.0            | 2017-09-23  |               |
 |[libfm-qt](https://goo.gl/02n0Fg)             |0.11.99          |             |               |
 |[lxqt-l10n](https://goo.gl/058rS4)            |0.11.99          |             |               |
-|[lxqt-themes](    )                           |0.12.0           | 2017-09-23  |               |
+|[lxqt-themes](    )                           |0.12.0           | 2017-09-23  | RELEASED              |
 |[obconf-qt](https://goo.gl/yM6ISU)            |0.12.0           | 2017-09-23  |               |
 |[pavucontrol-qt](https://goo.gl/gTPElB)       |0.3.0            | 2017-09-23  |               |
 |[qtermwidget](https://goo.gl/N20s1u)          |0.7.99           |             | asap          |
