@@ -10,12 +10,12 @@
 |[libsysstat](https://goo.gl/jHN9Vo)           |0.4.0            | 2017-09-23  | RELEASED      |
 |**III**                                                                                       |
 |[compton-conf](https://goo.gl/IZqvAb)         |0.3.0            | 2017-09-23  | RELEASED      |
-|[libfm-qt](https://goo.gl/02n0Fg)             |0.11.99          |             |               |
-|[lxqt-l10n](https://goo.gl/058rS4)            |0.11.99          |             |               |
+|[libfm-qt](https://goo.gl/02n0Fg)             |0.11.99          |  asap       |               |
+|[lxqt-l10n](https://goo.gl/058rS4)            |0.11.99 PRE      | 2017-09-24  |               |
 |[lxqt-themes](    )                           |0.12.0           | 2017-09-23  | RELEASED      |
 |[obconf-qt](https://goo.gl/yM6ISU)            |0.12.0           | 2017-09-24  | RELEASED      |
-|[pavucontrol-qt](https://goo.gl/gTPElB)       |0.3.0            | 2017-09-24  |               |
-|[qtermwidget](https://goo.gl/N20s1u)          |0.7.99           |             | asap          |
+|[pavucontrol-qt](https://goo.gl/gTPElB)       |0.3.0            | 2017-09-24  | RELEASED      |
+|[qtermwidget](https://goo.gl/N20s1u)          |0.7.99           |  asap       |               |
 |**IV**                                                                                        |
 |[lximage-qt](https://goo.gl/tPE3gz)           |0.5.99           |             | asap          |
 |[lxqt-about](https://goo.gl/edNtMf)           |0.11.99          |             | asap          |
@@ -29,8 +29,8 @@
 |[lxqt-qtplugin](https://goo.gl/kymBbM)        |0.11.99          |             | asap          |
 |[lxqt-session](https://goo.gl/1ub1Kx)         |0.11.99          |             | asap          |
 |[lxqt-sudo](https://goo.gl/ejfvvT)            |0.11.99          |             | asap          |
-|[pcmanfm-qt](https://goo.gl/9X039N)           |0.11.99          |             | asap          |
-|[qterminal](https://goo.gl/Xv6089)            |0.7.99           |             | asap          |
+|[pcmanfm-qt](https://goo.gl/9X039N)           |0.11.99          |  asap       |               |
+|[qterminal](https://goo.gl/Xv6089)            |0.7.99           |  asap       |               |
 |**V**                                                                                         |
 |[lxqt-panel](https://goo.gl/Jx28wF)           |0.11.99          |             | asap          |
 |[lxqt-runner](https://goo.gl/Y6rHTr)          |0.11.99          |             | asap          |
