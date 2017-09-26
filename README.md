@@ -37,4 +37,4 @@
 |**THIRD PARTY**                                                                                        |
 |[qlipper](https://goo.gl/Tg40q2)              |5.0.1            |             | asap          |
 |[qps](https://goo.gl/XrTyN8)                  |v1.10.17         | 2017-09-21  | RELEASED      |
-|[screengrab](https://goo.gl/KgVN4w)           |1.97             | 2017-09-23  |               |
+|[screengrab](https://goo.gl/KgVN4w)           |1.97             | 2017-09-23  | RELEASED              |
