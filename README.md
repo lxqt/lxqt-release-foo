@@ -12,7 +12,7 @@
 |[compton-conf](https://goo.gl/IZqvAb)         |0.3.0            | 2017-09-23  | RELEASED      |
 |[libfm-qt](https://goo.gl/02n0Fg)             |0.11.99          |  asap       |               |
 |[lxqt-l10n](https://goo.gl/058rS4)            |0.11.99 PRE      | 2017-09-27  | PRE-RELEASE   |
-|[lxqt-themes](    )                           |0.12.0           | 2017-09-23  | RELEASED      |
+|[lxqt-themes](    )                           |0.12.1           | 2017-10-10  | RELEASED      |
 |[obconf-qt](https://goo.gl/yM6ISU)            |0.12.0           | 2017-09-24  | RELEASED      |
 |[pavucontrol-qt](https://goo.gl/gTPElB)       |0.3.0            | 2017-09-24  | RELEASED      |
 |[qtermwidget](https://goo.gl/N20s1u)          |0.7.99           |  asap       |               |
