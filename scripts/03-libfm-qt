@@ -1,6 +1,6 @@
 #!/bin/bash
-# copyright: 2016 Alf Gaida <agaida@siduction.org>
-#            2016 Peter Mattern <pmattern@arcor.de>
+# copyright: 2016-2017 Alf Gaida <agaida@siduction.org>
+#            2016      Peter Mattern <pmattern@arcor.de>
 # License: WTFPL-2
 
 # WTFPL-2:
@@ -24,18 +24,9 @@ fi
 
 source $LOCAL_SCRIPT_PATH/release.sh
 
-#PROJECT=libfm-qt
-#REPO=libfm-qt
-#TAG=0.11.2
-#clone     "$PROJECT" "$REPO" "$TAG"
-#changelog "$PROJECT" "$REPO" "$TAG"
-#tag       "$PROJECT" "$REPO" "$TAG"
-#branch    "$PROJECT" "$REPO" "$TAG"
-#archive   "$PROJECT" "$REPO" "$TAG"
-
-PROJECT=pcmanfm-qt
-REPO=pcmanfm-qt
-TAG=0.11.96
+PROJECT=libfm-qt
+REPO=libfm-qt
+TAG=0.12.0
 
 clone     "$PROJECT" "$REPO" "$TAG"
 changelog "$PROJECT" "$REPO" "$TAG"
