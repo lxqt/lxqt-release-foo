@@ -74,12 +74,11 @@ archive() {
     cd $LOCAL_ARCHIVE_PATH/$1
     gpg --local-user $LOCAL_USER --armor --detach-sign "$2-$3.tar.xz"
     sha256sum "$2-$3.tar.xz" > "$2-$3.tar.xz".sha256
+}
 
+upload() {
     # upload to downloads.lxqt.org
     UPLOAD_ARCHIVE_PATH="$UPLOAD_ARCHIVE_BASE_PATH/$1/$3"
     ssh $UPLOAD_ARCHIVE_USER@$UPLOAD_ARCHIVE_HOST mkdir -p "$UPLOAD_ARCHIVE_PATH"
     rsync -av "$2-$3.tar.xz"* $UPLOAD_ARCHIVE_USER@$UPLOAD_ARCHIVE_HOST:$UPLOAD_ARCHIVE_PATH/
-
-    # upload to github
-    # go-script?
 }
