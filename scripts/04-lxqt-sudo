@@ -26,7 +26,7 @@ source $LOCAL_SCRIPT_PATH/release.sh
 
 PROJECT=lxqt-sudo
 REPO=lxqt-sudo
-TAG=0.12.0
+TAG=0.13.0
 
 clone     "$PROJECT" "$REPO" "$TAG"
 changelog "$PROJECT" "$REPO" "$TAG"

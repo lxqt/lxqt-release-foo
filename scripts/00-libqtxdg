@@ -26,7 +26,7 @@ source $LOCAL_SCRIPT_PATH/release.sh
 
 PROJECT=libqtxdg
 REPO=libqtxdg
-TAG=3.1.0
+TAG=3.2.0
 
 clone     "$PROJECT" "$REPO" "$TAG"
 changelog "$PROJECT" "$REPO" "$TAG"

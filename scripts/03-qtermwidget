@@ -26,7 +26,7 @@ source $LOCAL_SCRIPT_PATH/release.sh
 
 PROJECT=qtermwidget
 REPO=qtermwidget
-TAG=0.8.0
+TAG=0.9.0
 
 clone     "$PROJECT" "$REPO" "$TAG"
 changelog "$PROJECT" "$REPO" "$TAG"

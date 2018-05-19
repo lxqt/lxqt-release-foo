@@ -24,9 +24,9 @@ fi
 
 source $LOCAL_SCRIPT_PATH/release.sh
 
-PROJECT=lxqt-about
-REPO=lxqt-about
-TAG=0.13.0
+PROJECT=qps
+REPO=qps
+TAG=1.10.18
 
 clone     "$PROJECT" "$REPO" "$TAG"
 changelog "$PROJECT" "$REPO" "$TAG"
