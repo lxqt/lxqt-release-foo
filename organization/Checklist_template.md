@@ -33,7 +33,7 @@ actual work.]
 ## Upload
 
 * [ ] downloads.lxqt.org
-* GitHub (github.com/lxde/\<repository\>/releases)   
+* GitHub (github.com/lxqt/\<repository\>/releases)   
   * [ ] tag commit in question: has to be an annotated tag, so best tagged via CLI in a local checkout
   * [ ] turn the tagged commit in a release in terms of the Web-UI ("Draft a new release")
   * [ ] upload archive and PGP key with usual filenames \<component\>-\<version\>.\<extension\>{,.asc} via "Attach binaries.." of the Web-UI   
@@ -41,7 +41,7 @@ actual work.]
 (Rationale of last two steps:   
 Tagging commits results in links named `zip` and `tar.gz` at  github.com/\<project\>/\<repository\>/releases which point to
 github.com/\<project\>/\<repository\>/archive/\<version\>.\<extension\>, see e. g.
-[releases ≤ 0.10 of lxqt-panel](https://github.com/lxde/lxqt-panel/releases). If tagged commits are turned into a release in terms of the GitHub Web-UI
+[releases ≤ 0.10 of lxqt-panel](https://github.com/lxqt/lxqt-panel/releases). If tagged commits are turned into a release in terms of the GitHub Web-UI
 there are links named `Source code (<extension>)` which point to github.com/\<project\>/\<repository\>/archive/v\<version\>.\<extension\>, see e. g.
 [releases ≤ 0.9.4 of meteo-qt](https://github.com/dglent/meteo-qt/releases).   
 Both flavours yield different results when handled by web browsers or CLI downloaders like wget or curl respectively. Clicking the links in a Browser yields an archive named \<component\>-\<version\>.\<extension\> but downloading by those CLI tools always results in a file \<version\>.\<extension\> only.
