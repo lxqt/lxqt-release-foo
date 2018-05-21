@@ -36,5 +36,3 @@ archive   "$PROJECT" "$REPO" "$TAG"
 
 [ "$UPLOAD" = "false" ] && echo "Dont upload $REPO $TAG ..."
 [ "$UPLOAD" = "true" ] && upload  "$PROJECT" "$REPO" "$TAG"
-
-
