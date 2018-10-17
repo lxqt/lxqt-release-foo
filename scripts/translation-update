@@ -1,0 +1,71 @@
+#!/bin/bash
+
+# wtfpl2
+# (c) 2018 Alf Gaida <agaida@siduction.org>
+ 
+repo='compton-conf
+      libfm-qt
+      liblxqt
+      libqtxdg
+      libsysstat
+      lximage-qt
+      lxqt-about
+      lxqt-admin
+      lxqt-archiver
+      lxqt-build-tools
+      lxqt-config
+      lxqt-connman-applet
+      lxqt-globalkeys
+      lxqt-notificationd
+      lxqt-openssh-askpass
+      lxqt-panel
+      lxqt-policykit
+      lxqt-powermanagement
+      lxqt-qtplugin
+      lxqt-runner
+      lxqt-session
+      lxqt-sudo
+      lxqt-themes
+      obconf-qt
+      pavucontrol-qt
+      pcmanfm-qt
+      qps
+      qterminal
+      qtermwidget
+      screengrab 
+      sddm-config-editor' 
+
+# say
+
+
+# usage
+
+# load config
+
+# cleanup
+
+# clone
+function clone() {
+
+}
+
+
+# translate
+function translate() {
+
+}
+
+# push all
+function push_all() {
+
+}
+
+
+#main
+for i in $repo; do 
+    # option handling
+
+    # valid repo
+    
+done
+

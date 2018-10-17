@@ -1,0 +1,39 @@
+#!/bin/bash
+# copyright: 2016-2018 Alf Gaida <agaida@siduction.org>
+#            2016      Peter Mattern <pmattern@arcor.de>
+# License: WTFPL-2
+
+# WTFPL-2:
+# DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+# TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+# .
+# 0. You just DO WHAT THE FUCK YOU WANT TO.
+
+set -e
+
+
+[ -f /etc/pkg-lxqt-scripts/scripts.conf ] && source /etc/pkg-lxqt-scripts/scripts.conf && CONFIG_FOUND=true
+[ -f ~/.pkg-lxqt-scripts.conf ] && source ~/.pkg-lxqt-scripts.conf && CONFIG_FOUND=true
+[ -f ./scripts.conf ] && source ./scripts.conf && CONFIG_FOUND=true
+
+
+if [ "$CONFIG_FOUND" != "true" ]; then
+    echo 'No configuration found, exit!'
+    exit 1
+fi
+
+source $LOCAL_SCRIPT_PATH/release.sh
+
+PROJECT=lxqt-archiver
+REPO=lxqt-archiver
+TAG=0.1.0
+
+clone     "$PROJECT" "$REPO" "$TAG"
+changelog "$PROJECT" "$REPO" "$TAG"
+tag       "$PROJECT" "$REPO" "$TAG"
+branch    "$PROJECT" "$REPO" "$TAG"
+archive   "$PROJECT" "$REPO" "$TAG"
+
+[ "$UPLOAD" = "false" ] && echo "Dont upload $REPO $TAG ..."
+[ "$UPLOAD" = "true" ] && upload  "$PROJECT" "$REPO" "$TAG"
+
