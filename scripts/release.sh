@@ -17,6 +17,15 @@ clone() {
     git clone $GIT_ACCOUNT/$2 $2-$3
 }
 
+clone_branch() {
+    rm    -Rf "$LOCAL_CLONE_PATH/$1/$2"*
+    mkdir -p  "$LOCAL_CLONE_PATH/$1"
+    cd        "$LOCAL_CLONE_PATH/$1"
+    echo 'Cloning Git repository' $GIT_ACCOUNT/$2 'to' $2-$3
+    git clone $GIT_ACCOUNT/$2 $2-$3 -b $4
+}
+
+
 changelog() {
     cd "$LOCAL_CLONE_PATH/$1/$2-$3"
     git changelog \

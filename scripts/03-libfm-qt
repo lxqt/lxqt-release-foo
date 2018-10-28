@@ -26,7 +26,7 @@ source $LOCAL_SCRIPT_PATH/release.sh
 
 PROJECT=libfm-qt
 REPO=libfm-qt
-TAG=0.13.0
+TAG=0.13.1
 
 clone     "$PROJECT" "$REPO" "$TAG"
 changelog "$PROJECT" "$REPO" "$TAG"

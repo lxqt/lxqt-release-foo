@@ -24,15 +24,16 @@ fi
 
 source $LOCAL_SCRIPT_PATH/release.sh
 
-PROJECT=screengrab
-REPO=screengrab
-TAG=1.99
+PROJECT=libfm-qt
+REPO=libfm-qt
+TAG=0.13.1
+BRANCH="releases-0.13.x"
 
-clone     "$PROJECT" "$REPO" "$TAG"
-changelog "$PROJECT" "$REPO" "$TAG"
-tag       "$PROJECT" "$REPO" "$TAG"
-branch    "$PROJECT" "$REPO" "$TAG"
-archive   "$PROJECT" "$REPO" "$TAG"
+clone_branch "$PROJECT" "$REPO" "$TAG" "$BRANCH"
+#changelog   "$PROJECT" "$REPO" "$TAG"
+tag          "$PROJECT" "$REPO" "$TAG"
+#branch      "$PROJECT" "$REPO" "$TAG"
+archive      "$PROJECT" "$REPO" "$TAG"
 
-[ "$UPLOAD" = "false" ] && echo "Dont upload $REPO $TAG ..."
-[ "$UPLOAD" = "true" ] && upload  "$PROJECT" "$REPO" "$TAG"
+upload  "$PROJECT" "$REPO" "$TAG"
+

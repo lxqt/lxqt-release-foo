@@ -24,7 +24,7 @@ fi
 
 source $LOCAL_SCRIPT_PATH/release.sh
 
-PROJECT=lxqt
+PROJECT=liblxqt
 REPO=liblxqt
 TAG=0.13.0
 
