@@ -29,7 +29,7 @@ REPO=libsysstat
 TAG=0.4.1
 
 clone     "$PROJECT" "$REPO" "$TAG"
-changelog "$PROJECT" "$REPO" "$TAG"
+# changelog "$PROJECT" "$REPO" "$TAG"
 tag       "$PROJECT" "$REPO" "$TAG"
 branch    "$PROJECT" "$REPO" "$TAG"
 archive   "$PROJECT" "$REPO" "$TAG"

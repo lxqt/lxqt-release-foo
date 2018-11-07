@@ -29,7 +29,7 @@ REPO=libqtxdg
 TAG=3.2.0
 
 clone     "$PROJECT" "$REPO" "$TAG"
-changelog "$PROJECT" "$REPO" "$TAG"
+# changelog "$PROJECT" "$REPO" "$TAG"
 tag       "$PROJECT" "$REPO" "$TAG"
 branch    "$PROJECT" "$REPO" "$TAG"
 archive   "$PROJECT" "$REPO" "$TAG"
