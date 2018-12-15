@@ -28,8 +28,9 @@ PROJECT=lxqt-powermanagement
 REPO=lxqt-powermanagement
 TAG=0.13.0
 
-clone     "$PROJECT" "$REPO" "$TAG"
 # changelog "$PROJECT" "$REPO" "$TAG"
+
+clone     "$PROJECT" "$REPO" "$TAG"
 tag       "$PROJECT" "$REPO" "$TAG"
 branch    "$PROJECT" "$REPO" "$TAG"
 archive   "$PROJECT" "$REPO" "$TAG"

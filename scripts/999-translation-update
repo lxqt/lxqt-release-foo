@@ -2,7 +2,7 @@
 
 # wtfpl2
 # (c) 2018 Alf Gaida <agaida@siduction.org>
- 
+
 repo='compton-conf
       libfm-qt
       liblxqt
@@ -32,8 +32,8 @@ repo='compton-conf
       qps
       qterminal
       qtermwidget
-      screengrab 
-      sddm-config-editor' 
+      screengrab
+      sddm-config-editor'
 
 # say
 
@@ -62,10 +62,9 @@ function push_all() {
 
 
 #main
-for i in $repo; do 
+for i in $repo; do
     # option handling
 
     # valid repo
-    
 done
 
