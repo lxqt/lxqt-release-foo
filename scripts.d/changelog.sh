@@ -10,14 +10,22 @@
 # 0. You just DO WHAT THE FUCK YOU WANT TO.
 
 
+# Usage: changelog "$PROJECT" "$REPO" "$TAG"
 changelog() {
+    echo "$LOCAL_CLONE_PATH/$1/$2-$3"
     cd "$LOCAL_CLONE_PATH/$1/$2-$3"
-    git changelog \
-          --all \
-          --no-merges\
-          --stdout \
-          --tag "$2-$3" > CHANGELOG
-    git add .
-    git commit -m "Release $3: Update changelog"
-    git push
+    RESULT=$(grep "$3" CHANGELOG)||$(true)
+    if [ "$RESULT" ]; then
+        echo "------------------------------"
+        echo "Check changelog entry: $3     "
+        echo "Changelog found - continue ..."
+        echo "------------------------------"
+    else
+        echo "-------------------------------"
+        echo "Check changelog entry: $3      "
+        echo "Changelog not merged? Exit now!"
+        echo "==============================="
+        exit 1
+    fi
+
 }

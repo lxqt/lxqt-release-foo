@@ -31,8 +31,8 @@ PROJECT=qps
 REPO=qps
 TAG=1.10.19
 
-# changelog "$PROJECT" "$REPO" "$TAG"
 clone     "$PROJECT" "$REPO" "$TAG"
+changelog "$PROJECT" "$REPO" "$TAG"
 tag       "$PROJECT" "$REPO" "$TAG"
 branch    "$PROJECT" "$REPO" "$TAG"
 archive   "$PROJECT" "$REPO" "$TAG"

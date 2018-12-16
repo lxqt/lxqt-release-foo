@@ -10,6 +10,7 @@
 # 0. You just DO WHAT THE FUCK YOU WANT TO.
 
 
+# Usage: branch "$PROJECT" "$REPO" "$TAG"
 branch() {
     cd "$LOCAL_CLONE_PATH/$1/$2-$3"
     BRANCH_VER="$(echo "$3" | sed 's/\.[[:digit:]]*/\.x/2')"

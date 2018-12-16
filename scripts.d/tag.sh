@@ -10,6 +10,7 @@
 # 0. You just DO WHAT THE FUCK YOU WANT TO.
 
 
+# Usage: tag "$PROJECT" "$REPO" "$TAG"
 tag() {
     cd "$LOCAL_CLONE_PATH/$1/$2-$3"
 

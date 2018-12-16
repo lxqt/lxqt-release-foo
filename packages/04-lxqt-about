@@ -31,9 +31,8 @@ PROJECT=lxqt-about
 REPO=lxqt-about
 TAG=0.14.0
 
-# changelog "$PROJECT" "$REPO" "$TAG"
-
 clone     "$PROJECT" "$REPO" "$TAG"
+changelog "$PROJECT" "$REPO" "$TAG"
 tag       "$PROJECT" "$REPO" "$TAG"
 branch    "$PROJECT" "$REPO" "$TAG"
 archive   "$PROJECT" "$REPO" "$TAG"

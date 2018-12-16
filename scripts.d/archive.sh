@@ -10,6 +10,7 @@
 # 0. You just DO WHAT THE FUCK YOU WANT TO.
 
 
+# Usage: archive "$PROJECT" "$REPO" "$TAG"
 archive() {
     rm    -Rf "$LOCAL_ARCHIVE_PATH/$1/$2"*
     mkdir -p  "$LOCAL_ARCHIVE_PATH/$1"

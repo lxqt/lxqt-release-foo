@@ -10,6 +10,7 @@
 # 0. You just DO WHAT THE FUCK YOU WANT TO.
 
 
+# Usage: upload "$PROJECT" "$REPO" "$TAG"
 upload() {
     # upload to downloads.lxqt.org
     cd $LOCAL_ARCHIVE_PATH/$1
