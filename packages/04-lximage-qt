@@ -1,5 +1,5 @@
 #!/bin/bash
-# copyright: 2016-2017 Alf Gaida <agaida@siduction.org>
+# copyright: 2016-2018 Alf Gaida <agaida@siduction.org>
 #            2016      Peter Mattern <pmattern@arcor.de>
 # License: WTFPL-2
 
@@ -22,7 +22,10 @@ if [ "$CONFIG_FOUND" != "true" ]; then
     exit 1
 fi
 
-source $LOCAL_SCRIPT_PATH/release.sh
+# source all release scripts
+for i in $LOCAL_SCRIPT_PATH/*.sh; do
+    source $i
+done
 
 PROJECT=lximage-qt
 REPO=lximage-qt
