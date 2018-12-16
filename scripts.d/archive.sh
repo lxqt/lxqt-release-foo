@@ -1,5 +1,5 @@
 #!/bin/sh
-# copyright: 2016-2017 Alf Gaida <agaida@siduction.org>
+# copyright: 2016-2018 Alf Gaida <agaida@siduction.org>
 #            2016      Peter Mattern <pmattern@arcor.de>
 # license: WTFPL-2
 
