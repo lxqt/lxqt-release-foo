@@ -22,11 +22,14 @@ if [ "$CONFIG_FOUND" != "true" ]; then
     exit 1
 fi
 
-source $LOCAL_SCRIPT_PATH/*.sh
+# source all release scripts
+for i in $LOCAL_SCRIPT_PATH/*.sh; do
+    source $i
+done
 
 PROJECT=lxqt-policykit
 REPO=lxqt-policykit
-TAG=0.13.0
+TAG=0.14.0
 
 # changelog "$PROJECT" "$REPO" "$TAG"
 

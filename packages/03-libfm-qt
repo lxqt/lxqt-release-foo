@@ -29,7 +29,7 @@ done
 
 PROJECT=libfm-qt
 REPO=libfm-qt
-TAG=0.13.1
+TAG=0.14.0
 
 # changelog "$PROJECT" "$REPO" "$TAG"
 

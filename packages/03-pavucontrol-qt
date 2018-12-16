@@ -29,7 +29,7 @@ done
 
 PROJECT=pavucontrol-qt
 REPO=pavucontrol-qt
-TAG=0.4.0
+TAG=0.14.0
 
 # changelog "$PROJECT" "$REPO" "$TAG"
 

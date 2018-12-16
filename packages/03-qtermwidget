@@ -29,7 +29,7 @@ done
 
 PROJECT=qtermwidget
 REPO=qtermwidget
-TAG=0.9.0
+TAG=0.14.0
 
 # changelog "$PROJECT" "$REPO" "$TAG"
 

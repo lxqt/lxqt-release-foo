@@ -29,7 +29,7 @@ done
 
 PROJECT=libsysstat
 REPO=libsysstat
-TAG=0.4.1
+TAG=0.4.2
 
 # changelog "$PROJECT" "$REPO" "$TAG"
 

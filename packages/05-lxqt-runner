@@ -29,7 +29,7 @@ done
 
 PROJECT=lxqt-runner
 REPO=lxqt-runner
-TAG=0.13.0
+TAG=0.14.0
 
 # changelog "$PROJECT" "$REPO" "$TAG"
 

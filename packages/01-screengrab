@@ -29,7 +29,7 @@ done
 
 PROJECT=screengrab
 REPO=screengrab
-TAG=1.99
+TAG=1.100
 
 # changelog "$PROJECT" "$REPO" "$TAG"
 
