@@ -29,7 +29,7 @@ done
 
 PROJECT=screengrab
 REPO=screengrab
-TAG=1.100
+TAG=1.101
 
 
 clone     "$PROJECT" "$REPO" "$TAG"

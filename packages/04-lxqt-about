@@ -29,7 +29,7 @@ done
 
 PROJECT=lxqt-about
 REPO=lxqt-about
-TAG=0.14.0
+TAG=0.14.1
 
 clone     "$PROJECT" "$REPO" "$TAG"
 changelog "$PROJECT" "$REPO" "$TAG"
