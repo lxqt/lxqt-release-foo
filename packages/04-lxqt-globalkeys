@@ -29,7 +29,7 @@ done
 
 PROJECT=lxqt-globalkeys
 REPO=lxqt-globalkeys
-TAG=0.14.1
+TAG=0.14.3
 
 clone     "$PROJECT" "$REPO" "$TAG"
 changelog "$PROJECT" "$REPO" "$TAG"

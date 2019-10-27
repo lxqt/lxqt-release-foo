@@ -29,7 +29,7 @@ done
 
 PROJECT=qps
 REPO=qps
-TAG=1.10.20
+TAG=2.0.0
 
 clone     "$PROJECT" "$REPO" "$TAG"
 changelog "$PROJECT" "$REPO" "$TAG"
